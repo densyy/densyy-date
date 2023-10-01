@@ -9,5 +9,7 @@
     "url": "git://github.com/densyy/densyy-date"
   },
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
